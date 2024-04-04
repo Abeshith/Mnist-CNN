@@ -1,4 +1,4 @@
 # Mnist-CNN
 
 # References 
-Dat from the inbuild data source
+Data from the inbuild data source of Keras.Datasets Library
