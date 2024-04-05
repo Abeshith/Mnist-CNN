@@ -32,3 +32,6 @@ This project demonstrates the effectiveness of CNNs in digit recognition tasks. 
 ### Results
 The CNN model achieved an accuracy of approximately 87% on the test dataset, indicating its effectiveness in recognizing handwritten digits. The confusion matrix reveals the model's classification performance across different digit classes.
 
+## References
+Keras Dataset Documentation: Keras MNIST Dataset
+
